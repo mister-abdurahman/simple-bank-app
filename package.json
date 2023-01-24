@@ -1,0 +1,16 @@
+{
+  "name": "bank-app",
+  "version": "1.0.0",
+  "description": "A replica of your regular bank app",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "keywords": [],
+  "author": "Aramide Ramadan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
